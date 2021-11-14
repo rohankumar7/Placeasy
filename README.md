@@ -10,7 +10,7 @@ After each round of placement again they have to make separate excel sheet manua
 Then again they have to make separate excel sheet for finally placed student,number of offers company have given and many other reports manually by typing.
 But with the help of this web application all the above task can be done on a single click....
 
-You will find many project for placement management system but this is different and litter complex as I have used some COMPLEX DATABASE QUERIES,given notification option to notify students and generating report in excel and pdf format in 14 different options.
+You will find many project for placement management system but this is different and little complex as I have used some COMPLEX DATABASE QUERIES,given notification option to notify students and generating report in excel and pdf format in 14 different options.
 
 Technology used...
 1. html
